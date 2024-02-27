@@ -1,0 +1,46 @@
+Test Sites | Web Scraper
+
+1.
+			Here are some sites that you can use for training while learning how to
+			use the Web Scraper.
+		
+2.
+						E-commerce site
+					
+3.
+					E-commerce site with multiple categories, subcategories.
+					All items are loaded in one page.
+				
+4.
+						E-commerce site with pagination links
+					
+5.
+					E-commerce site with multiple categories, subcategories.
+					Standard links are used for pagination.
+				
+6.
+						E-commerce site with AJAX pagination links
+					
+7.
+					E-commerce site with multiple categories, subcategories.
+					Dynamic links that use data without reloading the page for
+					pagination.
+				
+8.
+						E-commerce site with "Load more" buttons
+					
+9.
+					E-commerce site with multiple categories, subcategories.
+					Instead of using pagination this site uses a "Load more"
+					button to load more items.
+				
+10.
+						E-commerce site that loads items while scrolling
+					
+11.
+					E-commerce site with multiple categories, subcategories.
+					Instead of using pagination this site loads items when user
+					scrolls the page down.
+				
+12.Website Privacy Policy
+There were 12 matches found for the keyword.
